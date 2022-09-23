@@ -1,0 +1,1 @@
+{District_Name: Vellore,Date: 01-01-2020,Infected: 1000,Recovered: 500,Vaccinated: 100000}

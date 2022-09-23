@@ -1,0 +1,30 @@
+[
+    {
+        "District_Name": "Vellore",
+        "Date": "01-01-2020",
+        "Infected": "1000",
+        "Recovered": "500",
+        "Vaccinated": "100000"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "01-01-2020",
+        "Infected": "1500",
+        "Recovered": "500",
+        "Vaccinated": "100000"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "01-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "100000"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "01-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "100000"
+    }
+]
