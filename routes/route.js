@@ -1,7 +1,8 @@
 const express = require("express");
 const router = express.Router();
-const { getHandler, postHandler } = require("../controllers/dataHandler");
+const { topTenVac, monthlyState } = require("../controllers/conrollers");
 
-router.route("/").get(getHandler).post(postHandler);
+router.route("/top10").get(topTenVac);
+router.route("/monthly").post(monthlyState);
 
 module.exports = router;

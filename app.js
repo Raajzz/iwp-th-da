@@ -1,6 +1,7 @@
 const express = require("express")
 const app = express();
 const router = require("./routes/route");
+const data = require("./data.json")
 
 app.use(express.json());
 app.use(router);

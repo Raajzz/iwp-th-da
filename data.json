@@ -1,30 +1,7411 @@
 [
     {
         "District_Name": "Vellore",
-        "Date": "01-01-2020",
-        "Infected": "1000",
+        "Date": "1-01-2020",
+        "Infected": "1020",
         "Recovered": "500",
-        "Vaccinated": "100000"
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
     },
     {
         "District_Name": "Chennai",
-        "Date": "01-01-2020",
+        "Date": "1-01-2020",
         "Infected": "1500",
-        "Recovered": "500",
-        "Vaccinated": "100000"
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
     },
     {
         "District_Name": "Ranipet",
-        "Date": "01-01-2020",
+        "Date": "1-01-2020",
         "Infected": "2000",
         "Recovered": "500",
-        "Vaccinated": "100000"
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
     },
     {
         "District_Name": "Tiruvannamalai",
-        "Date": "01-01-2020",
+        "Date": "1-01-2020",
         "Infected": "5000",
         "Recovered": "500",
-        "Vaccinated": "100000"
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "1-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "1-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "1-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "1-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "1-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "1-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "1-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "1-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "1-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "1-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "1-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "1-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "1-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "1-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "1-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "1-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "1-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "1-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "1-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "1-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "1-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "1-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "1-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "1-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "1-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "1-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "2-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "2-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "2-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "2-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "2-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "2-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "2-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "2-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "2-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "2-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "2-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "2-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "2-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "2-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "2-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "2-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "2-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "2-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "2-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "2-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "2-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "2-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "2-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "2-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "2-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "2-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "2-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "2-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "2-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "2-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "4-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "4-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "4-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "4-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "4-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "4-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "4-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "4-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "4-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "4-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "4-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "4-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "4-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "4-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "4-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "4-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "4-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "4-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "4-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "4-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "4-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "4-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "4-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "4-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "4-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "4-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "4-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "4-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "4-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "4-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "3-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "3-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "3-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "3-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "3-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "3-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "3-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "3-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "3-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "3-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "3-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "3-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "3-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "3-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "3-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "3-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "3-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "3-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "3-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "3-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "3-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "3-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "3-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "3-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "3-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "3-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "3-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "3-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "3-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "3-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "5-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "5-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "5-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "5-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "5-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "5-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "5-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "5-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "5-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "5-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "5-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "5-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "5-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "5-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "5-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "5-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "5-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "5-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "5-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "5-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "5-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "5-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "5-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "5-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "5-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "5-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "5-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "5-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "5-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "5-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "6-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "6-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "6-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "6-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "6-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "6-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "6-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "6-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "6-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "6-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "6-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "6-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "6-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "6-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "6-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "6-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "6-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "6-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "6-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "6-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "6-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "6-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "6-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "6-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "6-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "6-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "6-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "6-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "6-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "6-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "9-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "9-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "9-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "9-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "9-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "9-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "9-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "9-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "9-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "9-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "9-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "9-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "9-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "9-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "9-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "9-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "9-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "9-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "9-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "9-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "9-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "9-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "9-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "9-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "9-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "9-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "9-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "9-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "9-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "9-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "10-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "10-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "10-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "10-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "10-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "10-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "10-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "10-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "10-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "10-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "10-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "10-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "10-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "10-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "10-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "10-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "10-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "10-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "10-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "10-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "10-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "10-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "10-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "10-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "10-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "10-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "10-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "10-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "10-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "10-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "7-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "7-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "7-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "7-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "7-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "7-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "7-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "7-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "7-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "7-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "7-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "7-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "7-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "7-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "7-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "7-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "7-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "7-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "7-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "7-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "7-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "7-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "7-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "7-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "7-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "7-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "7-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "7-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "7-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "7-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "11-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "11-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "11-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "11-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "11-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "11-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "11-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "11-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "11-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "11-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "11-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "11-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "11-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "11-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "11-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "11-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "11-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "11-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "11-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "11-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "11-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "11-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "11-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "11-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "11-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "11-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "11-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "11-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "11-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "11-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "12-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "12-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "12-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "12-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "12-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "12-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "12-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "12-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "12-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "12-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "12-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "12-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "12-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "12-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "12-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "12-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "12-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "12-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "12-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "12-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "12-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "12-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "12-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "12-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "12-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "12-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "12-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "12-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "12-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "12-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "8-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "8-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "8-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "8-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "8-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "8-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "8-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "8-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "8-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "8-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "8-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "8-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "8-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "8-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "8-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "8-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "8-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "8-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "8-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "8-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "8-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "8-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "8-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "8-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "8-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "8-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "8-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "8-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "8-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "8-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "13-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "13-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "13-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "13-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "13-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "13-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "13-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "13-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "13-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "13-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "13-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "13-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "13-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "13-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "13-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "13-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "13-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "13-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "13-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "13-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "13-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "13-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "13-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "13-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "13-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "13-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "13-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "13-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "13-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "13-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "15-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "15-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "15-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "15-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "15-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "15-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "15-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "15-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "15-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "15-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "15-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "15-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "15-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "15-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "15-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "15-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "15-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "15-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "15-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "15-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "15-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "15-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "15-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "15-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "15-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "15-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "15-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "15-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "15-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "15-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "16-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "16-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "16-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "16-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "16-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "16-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "16-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "16-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "16-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "16-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "16-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "16-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "16-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "16-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "16-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "16-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "16-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "16-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "16-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "16-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "16-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "16-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "16-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "16-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "16-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "16-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "16-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "16-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "16-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "16-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "14-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "14-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "14-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "14-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "14-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "14-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "14-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "14-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "14-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "14-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "14-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "14-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "14-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "14-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "14-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "14-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "14-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "14-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "14-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "14-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "14-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "14-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "14-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "14-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "14-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "14-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "14-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "14-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "14-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "14-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "19-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "19-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "19-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "19-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "19-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "19-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "19-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "19-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "19-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "19-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "19-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "19-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "19-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "19-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "19-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "19-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "19-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "19-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "19-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "19-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "19-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "19-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "19-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "19-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "19-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "19-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "19-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "19-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "19-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "19-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "18-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "18-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "18-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "18-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "18-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "18-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "18-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "18-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "18-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "18-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "18-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "18-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "18-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "18-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "18-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "18-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "18-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "18-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "18-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "18-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "18-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "18-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "18-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "18-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "18-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "18-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "18-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "18-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "18-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "18-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "17-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "17-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "17-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "17-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "17-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "17-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "17-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "17-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "17-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "17-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "17-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "17-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "17-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "17-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "17-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "17-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "17-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "17-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "17-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "17-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "17-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "17-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "17-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "17-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "17-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "17-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "17-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "17-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "17-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "17-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "22-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "22-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "22-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "22-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "22-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "22-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "22-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "22-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "22-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "22-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "22-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "22-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "22-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "22-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "22-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "22-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "22-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "22-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "22-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "22-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "22-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "22-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "22-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "22-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "22-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "22-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "22-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "22-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "22-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "22-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "20-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "20-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "20-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "20-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "20-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "20-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "20-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "20-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "20-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "20-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "20-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "20-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "20-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "20-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "20-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "20-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "20-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "20-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "20-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "20-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "20-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "20-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "20-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "20-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "20-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "20-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "20-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "20-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "20-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "20-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "21-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "21-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "21-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "21-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "21-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "21-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "21-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "21-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "21-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "21-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "21-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "21-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "21-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "21-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "21-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "21-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "21-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "21-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "21-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "21-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "21-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "21-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "21-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "21-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "21-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "21-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "21-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "21-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "21-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "21-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "24-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "24-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "24-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "24-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "24-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "24-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "24-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "24-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "24-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "24-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "24-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "24-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "24-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "24-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "24-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "24-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "24-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "24-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "24-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "24-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "24-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "24-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "24-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "24-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "24-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "24-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "24-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "24-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "24-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "24-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "25-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "25-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "25-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "25-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "25-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "25-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "25-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "25-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "25-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "25-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "25-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "25-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "25-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "25-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "25-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "25-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "25-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "25-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "25-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "25-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "25-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "25-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "25-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "25-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "25-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "25-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "25-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "25-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "25-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "25-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "27-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "27-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "27-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "27-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "27-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "27-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "27-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "27-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "27-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "27-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "27-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "27-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "27-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "27-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "27-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "27-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "27-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "27-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "27-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "27-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "27-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "27-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "27-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "27-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "27-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "27-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "27-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "27-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "27-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "27-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "26-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "26-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "26-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "26-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "26-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "26-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "26-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "26-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "26-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "26-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "26-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "26-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "26-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "26-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "26-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "26-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "26-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "26-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "26-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "26-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "26-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "26-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "26-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "26-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "26-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "26-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "26-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "26-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "26-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "26-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "23-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "23-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "23-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "23-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "23-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "23-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "23-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "23-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "23-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "23-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "23-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "23-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "23-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "23-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "23-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "23-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "23-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "23-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "23-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "23-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "23-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "23-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "23-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "23-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "23-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "23-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "23-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "23-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "23-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "23-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "28-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "28-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "28-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "28-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "28-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "28-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "28-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "28-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "28-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "28-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "28-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "28-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "28-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "28-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "28-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "28-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "28-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "28-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "28-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "28-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "28-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "28-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "28-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "28-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "28-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "28-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "28-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "28-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "28-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "28-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "29-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "29-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "29-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "29-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "29-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "29-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "29-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "29-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "29-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "29-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "29-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "29-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "29-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "29-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "29-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "29-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "29-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "29-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "29-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "29-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "29-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "29-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "29-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "29-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "29-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "29-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "29-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "29-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "29-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "29-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "30-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "30-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "30-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "30-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "30-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "30-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "30-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "30-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "30-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "30-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "30-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "30-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "30-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "30-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "30-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "30-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "30-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "30-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "30-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "30-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "30-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "30-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "30-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "30-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "30-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "30-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "30-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "30-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "30-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "30-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Vellore",
+        "Date": "31-01-2020",
+        "Infected": "1020",
+        "Recovered": "500",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chennai",
+        "Date": "31-01-2020",
+        "Infected": "1500",
+        "Recovered": "550",
+        "Vaccinated": "9500",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Ranipet",
+        "Date": "31-01-2020",
+        "Infected": "2000",
+        "Recovered": "500",
+        "Vaccinated": "8000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tiruvannamalai",
+        "Date": "31-01-2020",
+        "Infected": "5000",
+        "Recovered": "500",
+        "Vaccinated": "5000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Trichy",
+        "Date": "31-01-2020",
+        "Infected": "1000",
+        "Recovered": "750",
+        "Vaccinated": "10000",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Chengalpattu",
+        "Date": "31-01-2020",
+        "Infected": "1200",
+        "Recovered": "763",
+        "Vaccinated": "12356",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Combatore",
+        "Date": "31-01-2020",
+        "Infected": "2005",
+        "Recovered": "900",
+        "Vaccinated": "12352",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Cuddalore",
+        "Date": "31-01-2020",
+        "Infected": "3215",
+        "Recovered": "529",
+        "Vaccinated": "3251",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Erode",
+        "Date": "31-01-2020",
+        "Infected": "1623",
+        "Recovered": "649",
+        "Vaccinated": "2516",
+        "State": "Tamil Nadu"
+    },
+    {
+        "District_Name": "Tanjavur",
+        "Date": "31-01-2020",
+        "Infected": "3423",
+        "Recovered": "789",
+        "Vaccinated": "4536"
+    },
+    {
+        "District_Name": "MumbaiCity",
+        "Date": "31-01-2020",
+        "Infected": "11020",
+        "Recovered": "1500",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "MumbaiSuburban",
+        "Date": "31-01-2020",
+        "Infected": "11500",
+        "Recovered": "1550",
+        "Vaccinated": "19500",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Pune",
+        "Date": "31-01-2020",
+        "Infected": "12000",
+        "Recovered": "1500",
+        "Vaccinated": "18000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Amravati",
+        "Date": "31-01-2020",
+        "Infected": "15000",
+        "Recovered": "1500",
+        "Vaccinated": "15000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Nagpur",
+        "Date": "31-01-2020",
+        "Infected": "11000",
+        "Recovered": "1750",
+        "Vaccinated": "110000",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ratnagiri",
+        "Date": "31-01-2020",
+        "Infected": "11200",
+        "Recovered": "1763",
+        "Vaccinated": "112356",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Wardha",
+        "Date": "31-01-2020",
+        "Infected": "12005",
+        "Recovered": "1900",
+        "Vaccinated": "112352",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Aurangabad",
+        "Date": "31-01-2020",
+        "Infected": "13215",
+        "Recovered": "1529",
+        "Vaccinated": "13251",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Ahmednagar",
+        "Date": "31-01-2020",
+        "Infected": "11623",
+        "Recovered": "1649",
+        "Vaccinated": "12516",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Thane",
+        "Date": "31-01-2020",
+        "Infected": "13423",
+        "Recovered": "1789",
+        "Vaccinated": "14536",
+        "State": "Maharashtra"
+    },
+    {
+        "District_Name": "Kolkata",
+        "Date": "31-01-2020",
+        "Infected": "1102",
+        "Recovered": "150",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Howrah",
+        "Date": "31-01-2020",
+        "Infected": "1150",
+        "Recovered": "155",
+        "Vaccinated": "1950",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Darjeeling",
+        "Date": "31-01-2020",
+        "Infected": "1200",
+        "Recovered": "150",
+        "Vaccinated": "1800",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Hooghly",
+        "Date": "31-01-2020",
+        "Infected": "1500",
+        "Recovered": "150",
+        "Vaccinated": "1500",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "CoochBehar",
+        "Date": "31-01-2020",
+        "Infected": "1100",
+        "Recovered": "175",
+        "Vaccinated": "11000",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Jalpaiguri",
+        "Date": "31-01-2020",
+        "Infected": "1120",
+        "Recovered": "176",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Murshidabad",
+        "Date": "31-01-2020",
+        "Infected": "1200",
+        "Recovered": "190",
+        "Vaccinated": "11235",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Nadia",
+        "Date": "31-01-2020",
+        "Infected": "1321",
+        "Recovered": "152",
+        "Vaccinated": "1325",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Alipurduar",
+        "Date": "31-01-2020",
+        "Infected": "1162",
+        "Recovered": "164",
+        "Vaccinated": "1251",
+        "State": "West Bengal"
+    },
+    {
+        "District_Name": "Malda",
+        "Date": "31-01-2020",
+        "Infected": "1342",
+        "Recovered": "178",
+        "Vaccinated": "1453",
+        "State": "West Bengal"
     }
 ]
