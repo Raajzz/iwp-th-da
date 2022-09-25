@@ -4,38 +4,54 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>COVID 19</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
     <script>
       $(document).ready(function () {
         $('.top10').click(function () {
           $.get('http://localhost:3000/top10', function (data, status) {
             const obj = JSON.parse(JSON.stringify(data));
-            obj.obj.forEach(element => {
-                $('.vac').append(`<li>${element[0]} - ${element[1]}</li>`);
+            obj.obj.forEach((element) => {
+              $('.vac').append(`<li>${element[0]} - ${element[1]}</li>`);
             });
           });
         });
         $('.monthly').click(function () {
-            $.post("http://localhost:3000/monthly", $("#inp").val(), function(data, status, xhr) {
+          console.log($('#inp').val());
+          var url = 'http://localhost:3000/monthly';
+          var posting = $.post(url, { state: $('#inp').val() });
+          posting.done(function (data, status, xhr) {
             const obj = JSON.parse(JSON.stringify(data));
-            $('.res').append(`<li>Recovered Count: ${obj.sum_recovered} </li> <br> <li> Infected Count: ${obj.sum_infected}</li>`);
-            });
-        })
+            $('.res').append(
+              `<li>Recovered Count: ${obj.sum_recovered} </li> <br> <li> Infected Count: ${obj.sum_infected}</li>`
+            );
+          });
+        });
       });
     </script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>Top 10 Vaccinated Districts</h1>
-    <button class="top10">Get Top 10</button>
-    <div>
-        <ul class="vac"></ul>
+    <div class="h11">
+      <h1>Covid 19 data Analyser</h1>
     </div>
-    <h1>Mothly Infection and Recovered Count</h1>
-    Enter Name of the State: <input type="text" value="" id="inp">
-    <button class="monthly">Get Statewise data</button>
-    <div>
-        <ul class="res"><ul/>
+    <div class="all">
+      <h2>Top 10 Vaccinated Districts</h2>
+      <button class="top10 btn btn-primary">Get Top 10</button>
+      <div class="hehe">
+        <ul class="vac"></ul>
+      </div>
+      <h2>Monthly Infection and Recovered Count</h2>
+      Enter Name of the State: <input type="text" value="" id="inp" />
+      <button class="monthly btn btn-primary">Get Statewise data</button>
+
+      <ul class="res" />
     </div>
   </body>
 </html>
