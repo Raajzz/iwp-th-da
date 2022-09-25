@@ -14,7 +14,9 @@ function sortObjectEntries(obj) {
     .sort((a, b) => b[1] - a[1])
     .map((el) => el);
 }
-const obj = sortObjectEntries(new_obj);
+let obj = sortObjectEntries(new_obj);
+
+obj = obj.slice(0, 10);
 
 const topTenVac = (req, res) => {
   res.status(200).json({
