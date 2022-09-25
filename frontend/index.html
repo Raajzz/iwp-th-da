@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('.top10').click(function () {
+          $.get('http://localhost:3000/top10', function (data, status) {
+            const obj = JSON.parse(JSON.stringify(data));
+            obj.obj.forEach(element => {
+                $('.vac').append(`<li>${element[0]} - ${element[1]}</li>`);
+            });
+          });
+        });
+        $('.monthly').click(function () {
+            $.post("http://localhost:3000/monthly", $("#inp").val(), function(data, status, xhr) {
+            const obj = JSON.parse(JSON.stringify(data));
+            $('.res').append(`<li>Recovered Count: ${obj.sum_recovered} </li> <br> <li> Infected Count: ${obj.sum_infected}</li>`);
+            });
+        })
+      });
+    </script>
+  </head>
+  <body>
+    <h1>Top 10 Vaccinated Districts</h1>
+    <button class="top10">Get Top 10</button>
+    <div>
+        <ul class="vac"></ul>
+    </div>
+    <h1>Mothly Infection and Recovered Count</h1>
+    Enter Name of the State: <input type="text" value="" id="inp">
+    <button class="monthly">Get Statewise data</button>
+    <div>
+        <ul class="res"><ul/>
+    </div>
+  </body>
+</html>
