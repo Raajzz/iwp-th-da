@@ -1,10 +1,3 @@
-// const getHandler = (req, res) => {
-//     res.status(200).json({
-//         success: true,
-//         message: "GET request"
-//     })
-// }
-
 const data = require('../data.json');
 
 const copy = data;
@@ -22,17 +15,7 @@ function sortObjectEntries(obj) {
     .map((el) => el);
 }
 const obj = sortObjectEntries(new_obj);
-// var i= 0;
-// var k = new_obj.map((item) => {
-//   i++;
-//   if (i <= 10) return item;
-// });
-// var filtered = k.filter(function (el) {
-//   return el != null;
-// });
-// const k = copy.map((x) => {
-//   return [x.Vaccinated, x.District_Name];
-// });
+
 const topTenVac = (req, res) => {
   res.status(200).json({
     success: true,
